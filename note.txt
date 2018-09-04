@@ -1,4 +1,5 @@
 hello from A
 hello from B
 hello from A
-hello from A
+merged from A
+merged from A
