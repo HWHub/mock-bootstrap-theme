@@ -3,4 +3,8 @@ hello from B
 hello from A
 merged from A
 merged from A
-BranchMerged!
+<<<<<<< HEAD
+branch A
+=======
+master
+>>>>>>> master
